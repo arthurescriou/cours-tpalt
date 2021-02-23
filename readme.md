@@ -49,6 +49,7 @@ Si vous avez le temps vous pouvez implémenter d'autres services :
 - story
 - chat direct
 - gif
+
 etc...
 
 Pour la suite du cours vous pouvez continuer à améliorer ce projet déjà commencé ou reutiliser seulement les composantes techniques pour créer un projet avec un métier complètement différent.
