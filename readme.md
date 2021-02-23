@@ -41,10 +41,30 @@ Pour cela il nous faut
   - amis, follow, match, etc
   - suggestion
 
-Toutes ces fonctionnalités ne sont que pour donner un exemple plutot simple.
+Toutes ces fonctionnalités ne sont que pour donner un exemple plutot simple. De plus ce cahier des charges est libre à l'interprétation.
 Il n'est pas forcément nécessaire de toutes les implémenter mais il est préférable d'avoir un projet avec un fonctionnement logique (inutile de créer un service photo si on ne peut pas l'utiliser par exemple)
-Si vous avez le temps vous pouvez implémenter d'autre services :
+Si vous avez le temps vous pouvez implémenter d'autres services :
 
 - événements
-
+- story
+- chat direct
+- gif
 etc...
+
+Pour la suite du cours vous pouvez continuer à améliorer ce projet déjà commencé ou reutiliser seulement les composantes techniques pour créer un projet avec un métier complètement différent.
+(Vous devez me faire valider le projet au préalable pour sa faisabilité et sa cohérence)
+Votre projet doit être découpé en micro services qui seront des serveurs exposant des API rest (ou graphql).
+C'est serveurs peuvent donc être écrit dans différents languages voir même être du code open source récupéré sur github.
+
+### Rendu 
+
+Lors de la dernière séance ( le 13 mars ) vous devrez présenter (20 min) votre projet par groupe.
+Cette présentation doit expliquer le métier du projet (sans être uk présentation marketing) ainsi que son développement technique et les règles métiers implémenté dans le code.
+La présentation doit se terminer par une démonstration de l'API (de max 5 min, veuillez préparer vos données et un scénario au préalable)
+En addition à la présentation le rendu comportera le code source sous la forme de repository github (avec des readme) (un pour le projet ou un par service). Vous pourrez y ajouter un document (de max 5 pages) si vous le souhaitez pour ajouter des informations que vous n'avez pas eu le temps de présenter à l'oral, ou des schémas.
+
+## Frontend
+
+Si vous êtes allergique au backend et que vous vous dédié à des postes Frontend dans votre futur carrière il est tout à fait possible de venir négocier avec moi pour trouver un équivalent de ce projet en frontend.
+Ainsi que pour le projet final il est possible de s'associer avec un groupe réalisant le backend pour créer une application complète.
+Mais ces projets devront être présentés séparément.
