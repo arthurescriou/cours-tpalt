@@ -64,7 +64,7 @@ Pour la suite du cours vous pouvez continuer à améliorer ce projet déjà comm
 
 #### Rendu
 
-Lors de la dernière séance ( le 13 mars ) vous devrez présenter (20 min) votre projet par groupe.
+Lors de la dernière séance ( le 13 avril ) vous devrez présenter (20 min) votre projet par groupe.
 Cette présentation doit expliquer le métier du projet (sans être uk présentation marketing) ainsi que son développement technique et les règles métiers implémenté dans le code.
 La présentation doit se terminer par une démonstration de l'API (de max 5 min, veuillez préparer vos données et un scénario au préalable)
 En addition à la présentation le rendu comportera le code source sous la forme de repository github (avec des readme) (un pour le projet ou un par service). Vous pourrez y ajouter un document (de max 5 pages) si vous le souhaitez pour ajouter des informations que vous n'avez pas eu le temps de présenter à l'oral, ou des schémas.
