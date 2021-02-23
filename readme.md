@@ -42,8 +42,8 @@ Pour cela il nous faut
   - suggestion
 
 Toutes ces fonctionnalités ne sont que pour donner un exemple plutot simple. De plus ce cahier des charges est libre à l'interprétation.
-Il n'est pas forcément nécessaire de toutes les implémenter mais il est préférable d'avoir un projet avec un fonctionnement logique (inutile de créer un service photo si on ne peut pas l'utiliser par exemple)
-Si vous avez le temps vous pouvez implémenter d'autres services :
+Vous devez choisir au moins 3 services "métier" à implémenter. Ils devront être cohérent entre eux pour faire une application complète.
+Vous pouvez les choisir ces autres services :
 
 - événements
 - story
@@ -51,6 +51,7 @@ Si vous avez le temps vous pouvez implémenter d'autres services :
 - gif
 
 etc...
+Ou en suggérer d'autres 
 
 Pour la suite du cours vous pouvez continuer à améliorer ce projet déjà commencé ou reutiliser seulement les composantes techniques pour créer un projet avec un métier complètement différent.
 (Vous devez me faire valider le projet au préalable pour sa faisabilité et sa cohérence)
