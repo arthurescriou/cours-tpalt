@@ -20,6 +20,10 @@ Pour les premières semaines vous allez vous initier à ce type d'architecture a
 
 ### Initiation au microservices
 
+Votre projet doit être découpé en micro services qui seront des serveurs exposant des API rest (ou graphql).
+Ces serveurs peuvent donc être écrit dans différents languages voir même être du code open source récupéré sur github.
+Un service doit disposer d'un datastore pour la persistence des données, on peut choisir une base de données ou autre, un file system un cache etc.
+
 Le projet se sépare en 2 partie, la partie technique nécessaire à un backend et une telle architecture :
 
 - un service d'authentification
@@ -51,14 +55,14 @@ Vous pouvez les choisir ces autres services :
 - gif
 
 etc...
-Ou en suggérer d'autres 
+Ou en suggérer d'autres
+
+### Projet
 
 Pour la suite du cours vous pouvez continuer à améliorer ce projet déjà commencé ou reutiliser seulement les composantes techniques pour créer un projet avec un métier complètement différent.
 (Vous devez me faire valider le projet au préalable pour sa faisabilité et sa cohérence)
-Votre projet doit être découpé en micro services qui seront des serveurs exposant des API rest (ou graphql).
-C'est serveurs peuvent donc être écrit dans différents languages voir même être du code open source récupéré sur github.
 
-### Rendu 
+#### Rendu
 
 Lors de la dernière séance ( le 13 mars ) vous devrez présenter (20 min) votre projet par groupe.
 Cette présentation doit expliquer le métier du projet (sans être uk présentation marketing) ainsi que son développement technique et les règles métiers implémenté dans le code.
