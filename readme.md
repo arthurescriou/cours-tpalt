@@ -71,6 +71,6 @@ En addition à la présentation le rendu comportera le code source sous la forme
 
 ## Frontend
 
-Si vous êtes allergique au backend et que vous vous dédiez à des postes Frontend dans votre futur carrière il est tout à fait possible de venir négocier avec moi pour trouver un équivalent de ce projet en frontend.
+Si vous êtes allergique au backend et que vous vous dédiez à des postes Frontend dans votre future carrière il est tout à fait possible de venir négocier avec moi pour trouver un équivalent de ce projet en frontend.
 Ainsi que pour le projet final il est possible de s'associer avec un groupe réalisant le backend pour créer une application complète.
 Mais ces projets devront être présentés séparément.
